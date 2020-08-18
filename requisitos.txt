@@ -1,0 +1,4 @@
+Nicholas Miranda Bastos 1904018
+Richard de Oliveira Lopes RA 1902036
+
+mostrar informações de viagens (destino, data, preço), ter local de cadastro, login e de compra de viagens, forma de pagamento
